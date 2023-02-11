@@ -3,9 +3,9 @@ package com.palomino.metodos;
 public class Clase03 {
     public static void celular(String marca, int precio, String modelo, int megapixeles, int bateria){
         System.out.println(
-                "El celular tiene las siguientes caracteristicass:"+ "La marca es: " + marca
-                + "El precio es: " + precio + "pesos" + "El modelo es: " + modelo + "Los Megapixeles de la camara son: " +
-                 megapixeles + "La bateria es de: " + bateria + "miliamperios"
+                "El celular tiene las siguientes caracteristicass:"+ "\nLa marca es: " + marca
+                + "\nEl precio es: " + precio + "pesos" + "\nEl modelo es: " + modelo + "\nLos Megapixeles de la camara son: " +
+                 megapixeles + "\nLa bateria es de: " + bateria + "miliamperios"
         );
 
         }
