@@ -13,8 +13,12 @@ public class Main {
     public static void main(String[] args){
         Clase03.registrar();
     }
+
+    /*
     public static void traerMetododeClase02(){
         Clase02 clase02 = new Clase02();
         clase02.ejecutar();
     }
+    */
+
 }
